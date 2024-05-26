@@ -1237,6 +1237,23 @@ body {
 .item-15 {
   background-image: url("../img/vaid_1.jpg");
 }
+.item-16 {
+  background-image: url("../img/SACO_02.jpg");
+}
+
+.item-17 {
+  background-image: url("../img/kolon_fnc_01.jpg");
+}
+
+.item-18 {
+  background-image: url("../img/JIKHWARO_02.jpg");
+}
+
+.item-19 {
+  background-image: url("../img/dongkyung_00_tumb.jpg");
+}
+
+
 
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {
@@ -1911,6 +1928,11 @@ body {
 .contact__phone {
   letter-spacing: .1em;
 }
+
+.contact__sns {
+  letter-spacing: .07em;
+}
+
 
 .contact_spacer {
   width: 100%;

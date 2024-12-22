@@ -1252,8 +1252,15 @@ body {
 .item-19 {
   background-image: url("../img/sns_ivecharcoal-11.jpg");
 }
-
-
+.item-20 {
+  background-image: url("../img/winter_07.jpg");
+}
+.item-21 {
+  background-image: url("../img/junghee_tumb.jpg");
+}
+.item-22 {
+  background-image: url("../img/thanks_01.jpg");
+}
 
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {

@@ -1181,7 +1181,7 @@ body {
 }
 
 .item-5 {
-  background-image: url("../img/LOCOB_02.jpg");
+  background-image: url("../img/LOCOB_01.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1238,11 +1238,11 @@ body {
   background-image: url("../img/vaid_1.jpg");
 }
 .item-16 {
-  background-image: url("../img/SACO_02.jpg");
+  background-image: url("../img/SACO_00.jpg");
 }
 
 .item-17 {
-  background-image: url("../img/kolon_kidult_01.jpg");
+  background-image: url("../img/kolon_kidult_05.JPG");
 }
 
 .item-18 {

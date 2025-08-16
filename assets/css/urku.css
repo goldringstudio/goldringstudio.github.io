@@ -1262,6 +1262,14 @@ body {
   background-image: url("../img/thanks_01.jpg");
 }
 
+.item-23 {
+  background-image: url("../img/STAY_08.jpg");
+}
+
+.item-24 {
+  background-image: url("../img/salon_00.jpg");
+}
+
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {
     display: -webkit-box;

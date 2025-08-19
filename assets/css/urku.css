@@ -1269,6 +1269,11 @@ body {
 .item-24 {
   background-image: url("../img/salon_00.jpg");
 }
+  background-image: url("../img/6th_uhrni_07.jpg");
+}
+
+
+
 
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {

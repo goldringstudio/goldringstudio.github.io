@@ -1273,7 +1273,9 @@ body {
   background-image: url("../img/6th_uhrni_07.jpg");
 }
 
-
+.item-26 {
+  background-image: url("../img/EVA-02.jpg");
+}
 
 
 @media (min-width: 40em) {
